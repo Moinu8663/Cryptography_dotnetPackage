@@ -4,6 +4,27 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+	  <PackageId>Moinuddin.Cryptography</PackageId>
+	  <Version>1.0.0</Version>
+
+	  <Authors>Moinuddin Sheikh</Authors>
+
+	  <Description>
+		  High performance AES encryption library for .NET 10
+	  </Description>
+
+	  <PackageTags>
+		  cryptography;aes;security;dotnet
+	  </PackageTags>
+
+	  <RepositoryUrl>
+		  https://github.com/Moinu8663/Cryptography_dotnetPackage
+	  </RepositoryUrl>
+
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
